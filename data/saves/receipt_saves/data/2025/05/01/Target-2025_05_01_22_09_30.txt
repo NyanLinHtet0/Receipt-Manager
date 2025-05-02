@@ -1,0 +1,7 @@
+Target-2025_05_01_22_09_30.txt
+Target:2025/05/01Person3:10.32Person2:9.82Person1:13.81
+NamePricePerson3Person2Person1
+Chips12.99Person1Person2Person3
+Soda10.99Person1Person2
+Juice5.99Person3
+Gum3.99Person1
